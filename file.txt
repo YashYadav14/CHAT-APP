@@ -1,1 +1,2 @@
 "CHAT-APP using socket.io framework This is a **real-time chat application** built using **Node.js** and **Socket.IO**. It allows users to join a chatroom and exchange messages instantly through WebSocket-based communication."  
+"CHAT-APP using socket.io framework This is a **real-time chat application** built using **Node.js** and **Socket.IO**. It allows users to join a chatroom and exchange messages instantly through WebSocket-based communication."  
