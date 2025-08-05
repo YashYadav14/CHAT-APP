@@ -1,0 +1,46 @@
+.chat-box p {
+  padding: 10px 14px;
+  margin: 8px 0;
+  border-radius: 16px;
+  max-width: 70%;
+  word-wrap: break-word;
+}
+
+/* Sent by current user */
+p.sent {
+  background-color: #4a90e2;
+  color: white;
+  margin-left: auto;
+  text-align: right;
+}
+
+/* Received from other users */
+p.received {
+  background-color: #e0e0e0;
+  color: black;
+  margin-right: auto;
+  text-align: left;
+}
+.chat-box p {
+  padding: 10px 14px;
+  margin: 8px 0;
+  border-radius: 16px;
+  max-width: 70%;
+  word-wrap: break-word;
+}
+
+/* Sent by current user */
+p.sent {
+  background-color: #4a90e2;
+  color: white;
+  margin-left: auto;
+  text-align: right;
+}
+
+/* Received from other users */
+p.received {
+  background-color: #e0e0e0;
+  color: black;
+  margin-right: auto;
+  text-align: left;
+}
